@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RecipeCataloge</string>
+
+    <string name="txt_breakfast">Sarapan</string>
+    <string name="txt_dessert">Hidangan</string>
+    <string name="txt_vegetarian">Sayuran</string>
+    <string name="txt_seafood">Makanan Laut</string>
+    <string name="content_image_for_bannner">Image For Bannner</string>
+    <string name="txt_garlick_better_shrimp">Garlick Better Shrimp</string>
+    <string name="txt_1_2k">1.2k</string>
+    <string name="txt_cooked">Masak</string>
+</resources>
